@@ -1,0 +1,4 @@
+{
+  "constr": "Server = . ; Database = OlwanAcadameyCFM ; Integrated Security = SSPI ; TrustServerCertificate = True;"
+
+}
